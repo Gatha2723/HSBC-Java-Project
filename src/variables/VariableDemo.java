@@ -40,14 +40,7 @@ public class VariableDemo {
 		System.out.println(Name2);
 		System.out.println(UdaySurname);
 		System.out.println("Rani" + " " + RaniSurname);		
-		//string class functions
-		String text ="welcome to hsbc";
-		System.out.println(text.length());
-		System.out.println(text.charAt(0));
-		System.out.println(text.codePointAt(1));
-		System.out.println(text.codePointBefore(2));
-		System.out.println(text.compareTo(Name1));
-		System.out.println(text.compareToIgnoreCase(Name1));
+		
 		
 		// FLOAT
 		/*float num = 3.14F;
