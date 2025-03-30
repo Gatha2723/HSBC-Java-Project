@@ -48,6 +48,13 @@ public class JavaConditions {
 			System.out.println(c);
 		}
 		
+		
+		// shorthand if
+		
+		float time = 6.15F;
+		String datetime = (time > 5.00F)? "Good day": "Good evening";
+		System.out.println(datetime);
+		
 	}
 	
 	
