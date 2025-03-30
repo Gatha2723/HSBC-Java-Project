@@ -11,7 +11,9 @@ public class MathFunction {
 		System.out.println(Math.sqrt(4));
 		System.out.println(Math.abs(-5));
 		System.out.println(Math.random());
-		System.out.println(Math.round(34.51));
+		System.out.println(Math.round(34.50));
+		int randomnum = (int) (Math.random()*200);
+		System.out.println(randomnum);
 
 	}
 
