@@ -28,7 +28,7 @@ public class VariableDemo {
 		
 		//division of two number
 		float divnum =(float) number1/number2;
-		System.out.print(divnum); */
+		System.out.print(divnum); 
 			
 		
 		//string
@@ -48,6 +48,8 @@ public class VariableDemo {
 		
 		//Boolean
 		boolean condition = true; */
+		
+		
 		
 	}
 
